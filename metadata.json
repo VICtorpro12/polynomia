@@ -1,0 +1,8 @@
+{
+  "name": "Polynomia",
+  "description": "Videojuego interactivo para aprender a resolver ecuaciones de grado superior mediante el método de Ruffini, cambio de variable bicuadrada, raíces racionales y factorización.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

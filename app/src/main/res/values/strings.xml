@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Polynomia</string>
+    <string name="tagline">Álgebra &amp; Ecuaciones RPG</string>
+    <string name="ruffini_tower">Torre de Ruffini</string>
+    <string name="rational_roots">Caza de Divisores</string>
+    <string name="biquadratic_lab">Alquimia Bicuadrada</string>
+    <string name="grouping_sanctuary">Factor Común &amp; Agrupación</string>
+    <string name="boss_arena">Coliseo de Jefes</string>
+    <string name="sandbox_lab">Laboratorio Libre</string>
+</resources>
